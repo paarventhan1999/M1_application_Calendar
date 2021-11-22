@@ -52,16 +52,14 @@ When the schedule data is stored maually it may inconvinience for the accessing 
 #### High Level Requirements:
 | ID | Description | Status |
 |------|------|------|
-| HLR1 | User shall be able to add new Contacts (1) | Implemented
-| HLR2 | User shall be able to List all Contacts (2) | Implemented
-| HLR3 | User shall be able to Search for Contacts (3) |	Implemented
-| HLR4 | User shall be able to Edit a Contact (4) |	Implemented
-| HLR5 | User shall be able For Delete a Contact (5) |	Implemented
-| HLR6 | User shall be able to Exit (6) |	Implemented
+| HLR1 | User shall be able to see the Days  | Implemented
+| HLR2 | User shall be able to see the Months | Implemented
+| HLR3 | User shall be able to see the Years |	Implemented
+| HLR4 | Leap year is set has per the years in calendar |	Implemented
 
 #### Low Level Requirements:
 
 | ID | Description | Status |
 |-------|------|------|
-| LLR1 | User shall be able to fetch perfect required Contact | Implemented 
+| LLR1 | User shall be able to change the Years in // Driver code command  | Implemented 
 | LLR2 | System must display data without error | Implemented
