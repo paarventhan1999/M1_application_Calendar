@@ -61,5 +61,5 @@ When the schedule data is stored maually it may inconvinience for the accessing 
 
 | ID | Description | Status |
 |-------|------|------|
-| LLR1 | User shall be able to change the Years in // Driver code command  | Implemented 
+| LLR1 | User shall be able to change the Years in  // Driver code command  | Implemented 
 | LLR2 | System must display data without error | Implemented
