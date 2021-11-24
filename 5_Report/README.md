@@ -65,3 +65,11 @@ When the schedule data is stored maually it may inconvinience for the accessing 
 | LLR2 | System must display data without error | Implemented
 
 
+# Structural Diagram:
+
+![flow chart](https://user-images.githubusercontent.com/94282753/143241712-0eee38fd-e373-41c8-bc79-a97b6e6becf1.jpg)
+
+# Behavioural Diagram:
+
+
+
