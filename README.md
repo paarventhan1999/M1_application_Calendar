@@ -7,3 +7,5 @@
 [![code grade](https://api.codiga.io/project/29959/status/svg)](https://app.codiga.io/project/29959/dashboard)
 
 [![Code Quality - Cppcheck](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/cppcheck.yml)
+
+[![Unit Testing - Unity](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/unity.yml/badge.svg)](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/unity.yml)
