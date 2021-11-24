@@ -73,6 +73,9 @@ When the schedule data is stored maually it may inconvinience for the accessing 
 
 ![UML-class-diagram-of-the-calendar-case-study](https://user-images.githubusercontent.com/94223103/142966733-451aba0d-dfe3-484f-b76e-063e4c86adac.png)
 
+## Output
+
+![op](https://user-images.githubusercontent.com/94282753/142984941-c12d81a2-7c20-4a2b-810d-87ac463d5b8f.png)
 
 
 
