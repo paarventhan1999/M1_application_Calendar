@@ -8,4 +8,4 @@
 
 [![Code Quality - Cppcheck](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/cppcheck.yml)
 
-[![Unit Testing - Unity](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/unity.yml/badge.svg)](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/unity.yml)
+
