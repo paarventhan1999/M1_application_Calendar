@@ -15,8 +15,6 @@
 
 [![Code Quality - Cppcheck](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/cppcheck.yml)
 
-[![Unit Testing - Unity](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/unity.yml/badge.svg)](https://github.com/paarventhan1999/M1_application_Calendar/actions/workflows/unity.yml)
-
 ## Introduction
 
 This project prints out the calendar of a user desired year and showing dates and days of the week, it will use the formual to calcualte the leap year and to find out which day of the week does the day 0 start on a given year.
